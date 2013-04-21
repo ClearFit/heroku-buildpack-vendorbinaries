@@ -6,3 +6,4 @@ if [ -f $1/.vendor_urls ]; then
 else
     exit 1
 fi
+
